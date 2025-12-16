@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+
+        h2 {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #007bff;
+        }
+
+        h3 {
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: #70cf81;
+        }
+
+        p, li {
+            text-align: justify;
+        }
+
+        header, footer {
+            background-color: #f8f9fa;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        footer small {
+            font-size: 0.85rem;
+        }
+    </style>
+</head>
+
+<body>
+    <main class="container my-4">	
+	<!-- <section>
+	
+	<div class="col-lg-12 col-md-12 col-sm-12 col-12">
+					<img src="assets/img/maintenance.jpg" class="mx-auto d-block img-fluid" alt="Centered image">
+					</div>
+	
+	<h2 class="text-center wave-text" style="font-size: 14px;">
+							Dear Consumer,<br /> <br />Vidyut Sahayogi Mobile App and some
+							online services of WBSEDCL website will not be available from
+							20th Oct. 2025 (Monday, Midnight) to 27th Oct. 2025
+							(Monday) due to system upgradation.<br /><br />Inconvenience
+							caused is deeply regretted.<br /><br />-Thanking you,<br />WBSEDCL
+						</h2>
+	
+	</section> -->
+	<header> 
+        <h1>Privacy Policy of WBSEDCL</h1>
+        <!-- <p class="text-muted">West Bengal State Electricity Distribution Company Limited</p> -->
+    </header>
+		<section class="my-4">
+            <h3>Privacy Policy:</h3>
+            <p>WBSEDCL shall handle all personal data submitted through "Vidyut Sahayogi" in accordance with the relevant provisions of the Personal Data (Privacy) Ordinance. WBSEDCL will record visits via Vidyut Sahayogi without collecting any personal identifiable information of Users. Such general statistics are collected for the compilation of statistical reports are the diagnosis of problems with or concerning computer systems to help WBSEDCL improve Vidyut Sahayogi service.</p>
+        </section>
+        
+        <section class="my-4">
+            <h3>Information Security:</h3>
+            <p>You acknowledge and agree that, Vidyut Sahayogi and affiliated companies does not endorse and is not responsible or liable, directly and indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of other World Wide Web sites, accessing external resources or applications that are incompatible to Vidyut Sahayogi.</p>
+            <p>Any information retained in WBSEDCL server logs will be maintained and protected in accordance with the WBSEDCL Privacy Policy. WBSEDCL Privacy Policy does not cover information that you send to third party does. Though Vidyut Sahayogi and affiliated companies are responsible for protecting the retained information from you, since absolute security cannot be guaranteed for international internet connection and data transferring, therefore, you are the sole responsibility of the person for all risk associated with the services provided by Vidyut Sahayogi.</p>
+            <p>Public Content posted or distributed on Vidyut Sahayogi You acknowledge that Vidyut Sahayogi does not pre-screen Content, but that Vidyut Sahayogi and its designees shall have the right (but not the obligation) in their sole discretion to refuse or (re)move any Content that is available via the Service. Without limiting the foregoing, Vidyut Sahayogi and its designees shall have the right to remove any Content that violates the Terms of Services or is otherwise objectionable. You agree that you must evaluate, and bear all risks associated with, the use of any Content, including any reliance on the accuracy, completeness, or usefulness of such Content. Recognizing the global nature of the Internet, you agree to comply with all local rules regarding online conduct and acceptable Content. You agree not to reproduce, duplicate copy, sell, resell or exploit for any commercial purposes, of any portion of the Service/ Content, use of the Service/ Content, or access to the Service/ Content that provided by Vidyut Sahayogi.</p>
+        </section>
+    </main>
+
+    <footer>
+        <small>© 2024 WBSEDCL. All rights reserved.</small>
+    </footer>
+
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
